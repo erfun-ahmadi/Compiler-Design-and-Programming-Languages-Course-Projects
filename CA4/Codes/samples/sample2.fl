@@ -1,0 +1,8 @@
+def foo()
+    return [true, false];
+end
+
+def main()
+    a=[1,2,3];
+    puts(a[0]);
+end

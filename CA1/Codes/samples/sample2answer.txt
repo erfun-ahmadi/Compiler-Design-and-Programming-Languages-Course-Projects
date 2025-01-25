@@ -1,0 +1,31 @@
+FuncDec: compare
+RETURN
+Operator: +
+PatternDec: fib
+Operator: ==
+Operator: ==
+Operator: >
+Function Call
+Operator: -
+Function Call
+Operator: -
+Operator: +
+FuncDec: doFunc
+RETURN
+Function Call
+MAIN
+Assignment: compare_ptr
+Built-In: PUTS
+FunctionCall
+Loop: DO
+Built-In: PUTS
+Control: BREAK
+Control: NEXT
+Built-In: PUTS
+Assignment: fib_5
+Built-In: MATCH
+Function Call
+Structure: LAMBDA
+RETURN
+Operator: <<
+Operator: <<
